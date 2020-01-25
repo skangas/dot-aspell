@@ -1,8 +1,9 @@
-personal_ws-1.1 en 25 
+personal_ws-1.1 en 28 
 AFAICT
 discoverable
 kangas
 zaretskii
+backtrace
 lexically
 emacs
 Tjeckoslovakien
@@ -22,5 +23,7 @@ circularities
 executables
 unsubscribe
 tooltips
+README
+MELPA
 widescreen
 flyspell
